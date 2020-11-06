@@ -13,6 +13,6 @@ https://drive.google.com/drive/folders/1ED0KteCdTco35rS2L-0ww5tumtnkNWKJ?usp=sha
 - [x] Command Line
 - [x] Git
 - [ ] SQL
-- [ ] Sass
+- [x] Sass
 - [ ] React.js
 - [ ] Node.js
