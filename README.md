@@ -9,7 +9,7 @@ https://drive.google.com/drive/folders/1ED0KteCdTco35rS2L-0ww5tumtnkNWKJ?usp=sha
 - [x] JS (ES6)
 - [x] PHP
 - [x] Java
-- [ ] Python
+- [x] Python
 - [x] Command Line
 - [x] Git
 - [ ] SQL
