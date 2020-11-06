@@ -8,7 +8,7 @@ Progate Lesson Overview by Scraping Bot
 - [ ] Java
 - [ ] Python
 - [x] Command Line
-- [ ] Git
+- [x] Git
 - [ ] SQL
 - [ ] Sass
 - [ ] React.js
