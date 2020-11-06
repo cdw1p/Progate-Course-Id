@@ -12,7 +12,7 @@ https://drive.google.com/drive/folders/1ED0KteCdTco35rS2L-0ww5tumtnkNWKJ?usp=sha
 - [x] Python
 - [x] Command Line
 - [x] Git
-- [ ] SQL
+- [x] SQL
 - [x] Sass
 - [ ] React.js
 - [ ] Node.js
