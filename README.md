@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/1ED0KteCdTco35rS2L-0ww5tumtnkNWKJ?usp=sha
 - [x] HTML
 - [ ] JS (ES6)
 - [ ] PHP
-- [ ] Java
+- [x] Java
 - [ ] Python
 - [x] Command Line
 - [x] Git
