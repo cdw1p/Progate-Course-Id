@@ -14,5 +14,5 @@ https://drive.google.com/drive/folders/1ED0KteCdTco35rS2L-0ww5tumtnkNWKJ?usp=sha
 - [x] Git
 - [x] SQL
 - [x] Sass
-- [ ] React.js
+- [x] React.js
 - [ ] Node.js
